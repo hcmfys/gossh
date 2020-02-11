@@ -6,3 +6,9 @@ ip.txt
 #other rules 
 #!bin/gossh
 #!bin/passtool
+.idea/encodings.xml
+.idea/gossh.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+
